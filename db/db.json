@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung M40",
+      "color": "black",
+      "price": 15500,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://stg-images.samsung.com/is/image/samsung/assets/rs/smartphones/2022-galaxy-a-series/02_Showroom_kv_asset_product.png"
+    },
+    {
+      "id": 2,
+      "name": "Nokia M40",
+      "color": "black",
+      "price": 1200,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://stg-images.samsung.com/is/image/samsung/assets/rs/smartphones/2022-galaxy-a-series/02_Showroom_kv_asset_product.png"
+    },
+    {
+      "id": 3,
+      "name": "Saomi M40",
+      "color": "black",
+      "price": 1600,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://stg-images.samsung.com/is/image/samsung/assets/rs/smartphones/2022-galaxy-a-series/02_Showroom_kv_asset_product.png"
+    },
+    {
+      "id": 4,
+      "name": "Sony ericson M40",
+      "color": "black",
+      "price": 11200,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://stg-images.samsung.com/is/image/samsung/assets/rs/smartphones/2022-galaxy-a-series/02_Showroom_kv_asset_product.png"
+    }
+  ]
+}
